@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="outroload.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="loading outro anim0000" x="0" y="0" width="1924" height="1252" frameX="-3207" frameY="-1045" frameWidth="8215" frameHeight="3365"/>
+	<SubTexture name="loading outro anim0001" x="1924" y="0" width="2176" height="1255" frameX="-3076" frameY="-1043" frameWidth="8215" frameHeight="3365"/>
+	<SubTexture name="loading outro anim0002" x="4100" y="0" width="2398" height="1267" frameX="-2961" frameY="-1037" frameWidth="8215" frameHeight="3365"/>
+	<SubTexture name="loading outro anim0003" x="0" y="1267" width="2599" height="1285" frameX="-2857" frameY="-1028" frameWidth="8215" frameHeight="3365"/>
+	<SubTexture name="loading outro anim0004" x="2599" y="1267" width="2789" height="1312" frameX="-2759" frameY="-1015" frameWidth="8215" frameHeight="3365"/>
+	<SubTexture name="loading outro anim0005" x="0" y="2579" width="2973" height="1346" frameX="-2664" frameY="-998" frameWidth="8215" frameHeight="3365"/>
+	<SubTexture name="loading outro anim0006" x="2973" y="2579" width="3155" height="1388" frameX="-2571" frameY="-977" frameWidth="8215" frameHeight="3365"/>
+	<SubTexture name="loading outro anim0007" x="0" y="3967" width="3343" height="1439" frameX="-2475" frameY="-952" frameWidth="8215" frameHeight="3365"/>
+	<SubTexture name="loading outro anim0008" x="3343" y="3967" width="3540" height="1500" frameX="-2374" frameY="-922" frameWidth="8215" frameHeight="3365"/>
+	<SubTexture name="loading outro anim0009" x="0" y="5467" width="3752" height="1573" frameX="-2266" frameY="-886" frameWidth="8215" frameHeight="3365"/>
+	<SubTexture name="loading outro anim0010" x="3752" y="5467" width="3984" height="1656" frameX="-2148" frameY="-845" frameWidth="8215" frameHeight="3365"/>
+	<SubTexture name="loading outro anim0011" x="0" y="7123" width="4243" height="1754" frameX="-2016" frameY="-796" frameWidth="8215" frameHeight="3365"/>
+</TextureAtlas>

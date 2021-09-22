@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="startbutton.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="startbutton0000" x="975" y="0" width="1000" height="265"/>
+	<SubTexture name="startbutton0001" x="0" y="265" width="1000" height="265"/>
+	<SubTexture name="startbutton0002" x="1000" y="265" width="1000" height="265"/>
+	<SubTexture name="startbutton0003" x="0" y="530" width="1000" height="265"/>
+	<SubTexture name="startbutton0004" x="1000" y="530" width="1000" height="265"/>
+	<SubTexture name="startbutton0005" x="0" y="795" width="1000" height="265"/>
+	<SubTexture name="startbutton0006" x="1000" y="795" width="1000" height="265"/>
+	<SubTexture name="startbutton0007" x="0" y="1060" width="1000" height="265"/>
+	<SubTexture name="startbutton0008" x="1000" y="795" width="1000" height="265"/>
+	<SubTexture name="startbutton0009" x="0" y="795" width="1000" height="265"/>
+	<SubTexture name="startbutton0010" x="1000" y="530" width="1000" height="265"/>
+	<SubTexture name="startbutton0011" x="0" y="530" width="1000" height="265"/>
+	<SubTexture name="startbutton0012" x="1000" y="265" width="1000" height="265"/>
+	<SubTexture name="startbutton0013" x="0" y="265" width="1000" height="265"/>
+	<SubTexture name="startbutton0014" x="1000" y="1060" width="1000" height="265"/>
+	<SubTexture name="startstory select0000" x="0" y="1325" width="997" height="259"/>
+	<SubTexture name="startstory select0001" x="0" y="1325" width="997" height="259"/>
+	<SubTexture name="startstory select0002" x="0" y="0" width="975" height="253"/>
+	<SubTexture name="startstory select0003" x="0" y="0" width="975" height="253"/>
+	<SubTexture name="startstory select0004" x="0" y="0" width="975" height="253"/>
+</TextureAtlas>

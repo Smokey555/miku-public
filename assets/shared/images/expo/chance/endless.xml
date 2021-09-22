@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="endless.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="golf chance time0000" x="0" y="0" width="1524" height="987" pivotX="1688.85" pivotY="705"/>
+	<SubTexture name="golf chance time0001" x="1524" y="0" width="1524" height="987"/>
+	<SubTexture name="golf chance time0002" x="3048" y="0" width="1524" height="987"/>
+	<SubTexture name="golf chance time0003" x="4572" y="0" width="1524" height="987"/>
+	<SubTexture name="golf chance time0004" x="6096" y="0" width="1524" height="987"/>
+	<SubTexture name="golf chance time0005" x="0" y="987" width="1524" height="987"/>
+	<SubTexture name="golf chance time0006" x="1524" y="987" width="1524" height="987"/>
+	<SubTexture name="golf chance time0007" x="3048" y="987" width="1524" height="987"/>
+	<SubTexture name="golf chance time0008" x="4572" y="987" width="1524" height="987"/>
+	<SubTexture name="golf chance time0009" x="6096" y="987" width="1524" height="987"/>
+	<SubTexture name="golf chance time0010" x="0" y="1974" width="1524" height="987"/>
+	<SubTexture name="golf chance time0011" x="1524" y="1974" width="1524" height="987"/>
+	<SubTexture name="golf chance time0012" x="3048" y="1974" width="1524" height="987"/>
+	<SubTexture name="golf chance time0013" x="4572" y="1974" width="1524" height="987"/>
+	<SubTexture name="golf chance time0014" x="6096" y="1974" width="1524" height="987"/>
+	<SubTexture name="golf chance time0015" x="0" y="2961" width="1524" height="987"/>
+	<SubTexture name="golf chance time0016" x="1524" y="2961" width="1524" height="987"/>
+	<SubTexture name="golf chance time0017" x="3048" y="2961" width="1524" height="987"/>
+	<SubTexture name="golf chance time0018" x="4572" y="2961" width="1524" height="987"/>
+	<SubTexture name="golf chance time0019" x="6096" y="2961" width="1524" height="987"/>
+	<SubTexture name="golf chance time0020" x="0" y="3948" width="1524" height="987"/>
+	<SubTexture name="golf chance time0021" x="1524" y="3948" width="1524" height="987"/>
+	<SubTexture name="golf chance time0022" x="3048" y="3948" width="1524" height="987"/>
+	<SubTexture name="golf chance time0023" x="4572" y="3948" width="1524" height="987"/>
+	<SubTexture name="golf chance time0024" x="6096" y="3948" width="1524" height="987"/>
+	<SubTexture name="golf chance time0025" x="0" y="4935" width="1524" height="987"/>
+	<SubTexture name="golf chance time0026" x="1524" y="4935" width="1524" height="987"/>
+	<SubTexture name="golf chance time0027" x="3048" y="4935" width="1524" height="987"/>
+	<SubTexture name="golf chance time0028" x="4572" y="4935" width="1524" height="987"/>
+	<SubTexture name="golf chance time0029" x="6096" y="4935" width="1524" height="987"/>
+	<SubTexture name="golf chance time0030" x="0" y="5922" width="1524" height="987"/>
+	<SubTexture name="golf chance time0031" x="1524" y="5922" width="1524" height="987"/>
+	<SubTexture name="golf chance time0032" x="3048" y="5922" width="1524" height="987"/>
+	<SubTexture name="golf chance time0033" x="4572" y="5922" width="1524" height="987"/>
+	<SubTexture name="golf chance time0034" x="6096" y="5922" width="1524" height="987"/>
+	<SubTexture name="golf chance time0035" x="0" y="6909" width="1524" height="987"/>
+</TextureAtlas>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowdbump.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowdbump0000" x="0" y="0" width="1332" height="259" pivotX="3.55" pivotY="16.95" frameX="0" frameY="-12" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdbump0001" x="0" y="0" width="1332" height="259" frameX="0" frameY="-12" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdbump0002" x="0" y="259" width="1316" height="262" frameX="-7" frameY="-9" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdbump0003" x="0" y="259" width="1316" height="262" frameX="-7" frameY="-9" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdbump0004" x="0" y="521" width="1310" height="268" frameX="-10" frameY="-3" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdbump0005" x="0" y="521" width="1310" height="268" frameX="-10" frameY="-3" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdbump0006" x="0" y="789" width="1307" height="271" frameX="-12" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdbump0007" x="0" y="789" width="1307" height="271" frameX="-12" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdbump0008" x="0" y="789" width="1307" height="271" frameX="-12" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdbump0009" x="0" y="789" width="1307" height="271" frameX="-12" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdbump0010" x="0" y="789" width="1307" height="271" frameX="-12" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdbump0011" x="0" y="789" width="1307" height="271" frameX="-12" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdbump0012" x="0" y="789" width="1307" height="271" frameX="-12" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdcheer0000" x="0" y="1060" width="1335" height="259" pivotX="-9.8" pivotY="50.6" frameX="0" frameY="-14" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdcheer0001" x="0" y="1060" width="1335" height="259" frameX="0" frameY="-14" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdcheer0002" x="0" y="1319" width="1318" height="262" frameX="-9" frameY="-10" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdcheer0003" x="0" y="1319" width="1318" height="262" frameX="-9" frameY="-10" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdcheer0004" x="0" y="1581" width="1313" height="268" frameX="-11" frameY="-3" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdcheer0005" x="0" y="1581" width="1313" height="268" frameX="-11" frameY="-3" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdcheer0006" x="0" y="1849" width="1309" height="271" frameX="-13" frameY="0" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdcheer0007" x="0" y="1849" width="1309" height="271" frameX="-13" frameY="0" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdcheer0008" x="0" y="1849" width="1309" height="271" frameX="-13" frameY="0" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdcheer0009" x="0" y="1849" width="1309" height="271" frameX="-13" frameY="0" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdcheer0010" x="0" y="1849" width="1309" height="271" frameX="-13" frameY="0" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdcheer0011" x="0" y="1849" width="1309" height="271" frameX="-13" frameY="0" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdcheer0012" x="0" y="1849" width="1309" height="271" frameX="-13" frameY="0" frameWidth="1335" frameHeight="273"/>
+	<SubTexture name="crowdmiss0000" x="0" y="2120" width="1307" height="271" pivotX="-6.95" pivotY="16.95" frameX="0" frameY="-4" frameWidth="1313" frameHeight="275"/>
+	<SubTexture name="crowdmiss0001" x="0" y="2120" width="1307" height="271" frameX="0" frameY="-4" frameWidth="1313" frameHeight="275"/>
+	<SubTexture name="crowdmiss0002" x="0" y="2391" width="1306" height="271" frameX="-7" frameY="0" frameWidth="1313" frameHeight="275"/>
+	<SubTexture name="crowdmiss0003" x="0" y="2391" width="1306" height="271" frameX="-7" frameY="0" frameWidth="1313" frameHeight="275"/>
+	<SubTexture name="crowdmiss0004" x="0" y="789" width="1307" height="271" frameX="-3" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdmiss0005" x="0" y="789" width="1307" height="271" frameX="-3" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdmiss0006" x="0" y="789" width="1307" height="271" frameX="-3" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdmiss0007" x="0" y="789" width="1307" height="271" frameX="-3" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdmiss0008" x="0" y="789" width="1307" height="271" frameX="-3" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdmiss0009" x="0" y="789" width="1307" height="271" frameX="-3" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdmiss0010" x="0" y="789" width="1307" height="271" frameX="-3" frameY="0" frameWidth="1332" frameHeight="271"/>
+	<SubTexture name="crowdmiss0011" x="0" y="789" width="1307" height="271" frameX="-3" frameY="0" frameWidth="1332" frameHeight="271"/>
+</TextureAtlas>

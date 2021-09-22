@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="songstart.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Aishite0000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="Disappearance0000" x="1280" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="Endless0000" x="2560" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="Endurance0000" x="0" y="720" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="Loid0000" x="1280" y="720" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="PoPiPo0000" x="2560" y="720" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="SIU0000" x="0" y="1440" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="Secret0000" x="1280" y="1440" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="Tutorial0000" x="2560" y="1440" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="Voca0000" x="0" y="2160" width="1280" height="720" pivotX="0" pivotY="0"/>
+</TextureAtlas>

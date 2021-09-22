@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="options bricks.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="keybindbrick0000" x="0" y="0" width="641" height="96"/>
+	<SubTexture name="keybindbrick select0000" x="641" y="0" width="731" height="177" frameX="0" frameY="0" frameWidth="732" frameHeight="177"/>
+	<SubTexture name="keybindbrick select0001" x="0" y="177" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0002" x="732" y="177" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0003" x="0" y="354" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0004" x="732" y="354" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0005" x="0" y="531" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0006" x="732" y="531" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0007" x="0" y="708" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0008" x="732" y="708" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0009" x="0" y="885" width="731" height="177" frameX="0" frameY="0" frameWidth="732" frameHeight="177"/>
+	<SubTexture name="keybindbrick select0010" x="732" y="708" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0011" x="0" y="708" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0012" x="732" y="531" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0013" x="0" y="531" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0014" x="732" y="354" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0015" x="0" y="354" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0016" x="732" y="177" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0017" x="0" y="177" width="732" height="177"/>
+	<SubTexture name="keybindbrick select0018" x="641" y="0" width="731" height="177" frameX="0" frameY="0" frameWidth="732" frameHeight="177"/>
+	<SubTexture name="settings_brick0000" x="731" y="885" width="641" height="96"/>
+	<SubTexture name="settings_brick select0000" x="0" y="1062" width="731" height="177" frameX="0" frameY="0" frameWidth="732" frameHeight="177"/>
+	<SubTexture name="settings_brick select0001" x="731" y="1062" width="732" height="177"/>
+	<SubTexture name="settings_brick select0002" x="0" y="1239" width="732" height="177"/>
+	<SubTexture name="settings_brick select0003" x="732" y="1239" width="732" height="177"/>
+	<SubTexture name="settings_brick select0004" x="0" y="1416" width="732" height="177"/>
+	<SubTexture name="settings_brick select0005" x="732" y="1416" width="732" height="177"/>
+	<SubTexture name="settings_brick select0006" x="0" y="1593" width="732" height="177"/>
+	<SubTexture name="settings_brick select0007" x="732" y="1593" width="732" height="177"/>
+	<SubTexture name="settings_brick select0008" x="0" y="1770" width="732" height="177"/>
+	<SubTexture name="settings_brick select0009" x="732" y="1770" width="731" height="177" frameX="0" frameY="0" frameWidth="732" frameHeight="177"/>
+	<SubTexture name="settings_brick select0010" x="0" y="1770" width="732" height="177"/>
+	<SubTexture name="settings_brick select0011" x="732" y="1593" width="732" height="177"/>
+	<SubTexture name="settings_brick select0012" x="0" y="1593" width="732" height="177"/>
+	<SubTexture name="settings_brick select0013" x="732" y="1416" width="732" height="177"/>
+	<SubTexture name="settings_brick select0014" x="0" y="1416" width="732" height="177"/>
+	<SubTexture name="settings_brick select0015" x="732" y="1239" width="732" height="177"/>
+	<SubTexture name="settings_brick select0016" x="0" y="1239" width="732" height="177"/>
+	<SubTexture name="settings_brick select0017" x="731" y="1062" width="732" height="177"/>
+	<SubTexture name="settings_brick select0018" x="0" y="1062" width="731" height="177" frameX="0" frameY="0" frameWidth="732" frameHeight="177"/>
+</TextureAtlas>

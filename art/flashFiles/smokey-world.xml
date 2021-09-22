@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smokey-world.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="settings_brick0000" x="0" y="0" width="641" height="96"/>
+	<SubTexture name="settings_brick select0000" x="0" y="96" width="731" height="177" frameX="0" frameY="0" frameWidth="732" frameHeight="177"/>
+	<SubTexture name="settings_brick select0001" x="0" y="273" width="732" height="177"/>
+	<SubTexture name="settings_brick select0002" x="0" y="450" width="732" height="177"/>
+	<SubTexture name="settings_brick select0003" x="0" y="627" width="732" height="177"/>
+	<SubTexture name="settings_brick select0004" x="0" y="804" width="732" height="177"/>
+	<SubTexture name="settings_brick select0005" x="0" y="981" width="732" height="177"/>
+	<SubTexture name="settings_brick select0006" x="0" y="1158" width="732" height="177"/>
+	<SubTexture name="settings_brick select0007" x="0" y="1335" width="732" height="177"/>
+	<SubTexture name="settings_brick select0008" x="0" y="1512" width="732" height="177"/>
+	<SubTexture name="settings_brick select0009" x="0" y="1689" width="731" height="177" frameX="0" frameY="0" frameWidth="732" frameHeight="177"/>
+	<SubTexture name="settings_brick select0010" x="0" y="1512" width="732" height="177"/>
+	<SubTexture name="settings_brick select0011" x="0" y="1335" width="732" height="177"/>
+	<SubTexture name="settings_brick select0012" x="0" y="1158" width="732" height="177"/>
+	<SubTexture name="settings_brick select0013" x="0" y="981" width="732" height="177"/>
+	<SubTexture name="settings_brick select0014" x="0" y="804" width="732" height="177"/>
+	<SubTexture name="settings_brick select0015" x="0" y="627" width="732" height="177"/>
+	<SubTexture name="settings_brick select0016" x="0" y="450" width="732" height="177"/>
+	<SubTexture name="settings_brick select0017" x="0" y="273" width="732" height="177"/>
+	<SubTexture name="settings_brick select0018" x="0" y="96" width="731" height="177" frameX="0" frameY="0" frameWidth="732" frameHeight="177"/>
+</TextureAtlas>

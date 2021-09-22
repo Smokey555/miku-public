@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu shit.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits block0000" x="0" y="0" width="943" height="219"/>
+	<SubTexture name="credits select0000" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0001" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0002" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0003" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0004" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0005" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0006" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0007" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0008" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0009" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0010" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0011" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0012" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0013" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="credits select0014" x="943" y="0" width="1036" height="298"/>
+	<SubTexture name="freeplay bars0000" x="1979" y="0" width="1994" height="1143"/>
+	<SubTexture name="freeplay block0000" x="0" y="1143" width="943" height="219"/>
+	<SubTexture name="freeplay brick0000" x="943" y="1143" width="883" height="130"/>
+	<SubTexture name="freeplay select0000" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0001" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0002" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0003" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0004" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0005" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0006" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0007" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0008" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0009" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0010" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0011" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0012" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0013" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplay select0014" x="1826" y="1143" width="1036" height="298"/>
+	<SubTexture name="freeplayblock select0000" x="2862" y="1143" width="1078" height="279"/>
+	<SubTexture name="miku splash art0000" x="0" y="1441" width="1541" height="1151"/>
+	<SubTexture name="settings block0000" x="1541" y="1441" width="943" height="219"/>
+	<SubTexture name="settings select0000" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0001" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0002" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0003" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0004" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0005" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0006" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0007" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0008" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0009" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0010" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0011" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0012" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0013" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="settings select0014" x="2484" y="1441" width="1036" height="298"/>
+	<SubTexture name="storymmode top0000" x="0" y="2592" width="1994" height="1143"/>
+	<SubTexture name="storymode0000" x="1994" y="2592" width="943" height="219"/>
+	<SubTexture name="storymode select0000" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0001" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0002" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0003" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0004" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0005" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0006" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0007" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0008" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0009" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0010" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0011" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0012" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0013" x="2937" y="2592" width="1036" height="298"/>
+	<SubTexture name="storymode select0014" x="2937" y="2592" width="1036" height="298"/>
+</TextureAtlas>

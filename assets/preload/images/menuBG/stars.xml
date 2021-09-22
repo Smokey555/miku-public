@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stars.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="filled stars0000" x="0" y="0" width="56" height="62"/>
+	<SubTexture name="star empty0000" x="0" y="62" width="56" height="61"/>
+</TextureAtlas>

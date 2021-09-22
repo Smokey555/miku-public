@@ -1,0 +1,1 @@
+x=msgbox("LaLaLaLala! im miku!", 0+16, "FATAL ERROR")

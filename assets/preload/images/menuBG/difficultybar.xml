@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="difficultybar.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="difficulty slider easy0000" x="0" y="0" width="576" height="116"/>
+	<SubTexture name="difficulty slider hard0000" x="0" y="116" width="576" height="116"/>
+	<SubTexture name="difficulty slider normal0000" x="0" y="232" width="576" height="116"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+bf
+bf-voca
+gf
+gf-expo
+gf-voca
+carol
+tricky
+monster
+miku
+miku-voca

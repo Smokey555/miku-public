@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sadmiku.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="miss miku0000" x="0" y="0" width="501" height="754" frameX="650" frameY="350" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="miss miku0001" x="0" y="0" width="501" height="754" frameX="650" frameY="350" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="miss miku0002" x="501" y="0" width="501" height="754" frameX="650" frameY="350" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="miss miku0003" x="501" y="0" width="501" height="754" frameX="650" frameY="350" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="miss miku0004" x="0" y="754" width="501" height="754" frameX="650" frameY="350" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="miss miku0005" x="0" y="754" width="501" height="754" frameX="650" frameY="350" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="miss miku0006" x="501" y="754" width="501" height="754" frameX="650" frameY="350" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="miss miku0007" x="501" y="754" width="501" height="754" frameX="650" frameY="350" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="miss miku0008" x="0" y="754" width="501" height="754" frameX="650" frameY="350" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="miss miku0009" x="0" y="754" width="501" height="754" frameX="650" frameY="350" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>

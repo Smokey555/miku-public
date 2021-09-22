@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg main.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="circle0000" x="0" y="0" width="1440" height="1440"/>
+	<SubTexture name="line10000" x="1440" y="0" width="2582" height="88"/>
+	<SubTexture name="line20000" x="4022" y="0" width="2576" height="56"/>
+	<SubTexture name="line30000" x="0" y="1440" width="2587" height="85"/>
+	<SubTexture name="line40000" x="2587" y="1440" width="2587" height="38"/>
+	<SubTexture name="line50000" x="5174" y="1440" width="2589" height="92"/>
+	<SubTexture name="line60000" x="0" y="1532" width="2602" height="62"/>
+	<SubTexture name="spikes0000" x="0" y="1594" width="6089" height="83"/>
+</TextureAtlas>

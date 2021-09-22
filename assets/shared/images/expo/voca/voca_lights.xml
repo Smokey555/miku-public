@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="voca_lights.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spotlight flash0000" x="0" y="0" width="1036" height="227" pivotX="64.75" pivotY="-269.1" frameX="-208" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0001" x="0" y="0" width="1036" height="227" frameX="-208" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0002" x="0" y="227" width="1022" height="230" frameX="-214" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0003" x="0" y="227" width="1022" height="230" frameX="-214" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0004" x="1022" y="227" width="1022" height="230" frameX="-214" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0005" x="1022" y="227" width="1022" height="230" frameX="-214" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0006" x="0" y="457" width="1022" height="230" frameX="-214" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0007" x="0" y="457" width="1022" height="230" frameX="-214" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0008" x="0" y="457" width="1022" height="230" frameX="-214" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0009" x="0" y="457" width="1022" height="230" frameX="-214" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0010" x="0" y="457" width="1022" height="230" frameX="-214" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0011" x="0" y="457" width="1022" height="230" frameX="-214" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0012" x="0" y="457" width="1022" height="230" frameX="-214" frameY="0" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0013" x="0" y="687" width="1042" height="209" frameX="0" frameY="-10" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0014" x="0" y="687" width="1042" height="209" frameX="0" frameY="-10" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0015" x="0" y="896" width="1032" height="224" frameX="-7" frameY="-6" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0016" x="0" y="896" width="1032" height="224" frameX="-7" frameY="-6" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0017" x="0" y="1120" width="1032" height="224" frameX="-7" frameY="-6" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0018" x="0" y="1120" width="1032" height="224" frameX="-7" frameY="-6" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0019" x="0" y="457" width="1022" height="230" frameX="-7" frameY="-6" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0020" x="0" y="457" width="1022" height="230" frameX="-7" frameY="-6" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0021" x="0" y="457" width="1022" height="230" frameX="-7" frameY="-6" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0022" x="0" y="457" width="1022" height="230" frameX="-7" frameY="-6" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0023" x="0" y="457" width="1022" height="230" frameX="-7" frameY="-6" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0024" x="0" y="457" width="1022" height="230" frameX="-7" frameY="-6" frameWidth="1244" frameHeight="230"/>
+	<SubTexture name="spotlight flash0025" x="0" y="457" width="1022" height="230" frameX="-7" frameY="-6" frameWidth="1244" frameHeight="230"/>
+</TextureAtlas>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spotlightdance.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spotlightdance10000" x="0" y="0" width="1773" height="1457" frameX="-336" frameY="-21" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10001" x="0" y="0" width="1773" height="1457" frameX="-336" frameY="-21" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10002" x="1773" y="0" width="1755" height="1499" frameX="-345" frameY="0" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10003" x="1773" y="0" width="1755" height="1499" frameX="-345" frameY="0" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10004" x="0" y="1499" width="1755" height="1499" frameX="-345" frameY="0" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10005" x="0" y="1499" width="1755" height="1499" frameX="-345" frameY="0" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10006" x="1755" y="1499" width="1755" height="1499" frameX="-345" frameY="0" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10007" x="1755" y="1499" width="1755" height="1499" frameX="-345" frameY="0" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10008" x="1755" y="1499" width="1755" height="1499" frameX="-345" frameY="0" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10009" x="1755" y="1499" width="1755" height="1499" frameX="-345" frameY="0" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10010" x="1755" y="1499" width="1755" height="1499" frameX="-345" frameY="0" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10011" x="1755" y="1499" width="1755" height="1499" frameX="-345" frameY="0" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10012" x="1755" y="1499" width="1755" height="1499" frameX="-345" frameY="0" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10013" x="0" y="2998" width="1790" height="1448" frameX="0" frameY="-30" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10014" x="0" y="2998" width="1790" height="1448" frameX="0" frameY="-30" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10015" x="1790" y="2998" width="1771" height="1489" frameX="-10" frameY="-10" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10016" x="1790" y="2998" width="1771" height="1489" frameX="-10" frameY="-10" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10017" x="0" y="4487" width="1771" height="1489" frameX="-10" frameY="-10" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10018" x="0" y="4487" width="1771" height="1489" frameX="-10" frameY="-10" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10019" x="1755" y="1499" width="1755" height="1499" frameX="-10" frameY="-10" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10020" x="1755" y="1499" width="1755" height="1499" frameX="-10" frameY="-10" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10021" x="1755" y="1499" width="1755" height="1499" frameX="-10" frameY="-10" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10022" x="1755" y="1499" width="1755" height="1499" frameX="-10" frameY="-10" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10023" x="1755" y="1499" width="1755" height="1499" frameX="-10" frameY="-10" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10024" x="1755" y="1499" width="1755" height="1499" frameX="-10" frameY="-10" frameWidth="2109" frameHeight="1499"/>
+	<SubTexture name="spotlightdance10025" x="1755" y="1499" width="1755" height="1499" frameX="-10" frameY="-10" frameWidth="2109" frameHeight="1499"/>
+</TextureAtlas>

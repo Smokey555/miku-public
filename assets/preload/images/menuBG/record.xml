@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="record.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="record0000" x="0" y="0" width="1058" height="1065" pivotX="256.25" pivotY="260.7"/>
+</TextureAtlas>

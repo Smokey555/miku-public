@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mainmenuCharactersAlt.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="freeplay" x="0" y="720" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="settings" x="0" y="1440" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="storymode" x="0" y="2160" width="1280" height="720" pivotX="0" pivotY="0"/>
+</TextureAtlas>
