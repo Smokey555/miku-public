@@ -78,6 +78,10 @@ class Main extends Sprite
 			gameHeight = Math.ceil(stageHeight / zoom);
 		}
 
+		#if web
+		framerate = 60;
+		#end
+			
 		#if cpp
 		initialState = TitleState; //i dont want caching on my game fuck off
 		game = new FlxGame(gameWidth, gameHeight, initialState, zoom, framerate, framerate, skipSplash, startFullscreen);
